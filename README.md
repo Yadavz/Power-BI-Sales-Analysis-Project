@@ -1,4 +1,4 @@
-# Power BI Sales Analysis Project
+# Power BI Visualizing Acquistation Data Project
 
 This is a Power BI project that analyzes customer data for different products for the years 2014, 2015, and 2016 with sales data for different regions. The project includes different measures for sales analysis, such as total cost, total profit, total quantity, total sales, and profit margin. The following sections describe the different components of the project:
 
